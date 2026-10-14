@@ -2,6 +2,14 @@
 
 VenusWare кряк, VenusWare crack — клиент Minecraft 1.21.11 с визуалами и PvE-утилитами. Лоадер, KillAura, AutoTotem.
 
+## Постер с сайта MoggyDay
+
+[![VenusWare — poster, crack, cheat, скачать с moggydaymc-cheat.com](https://moggydaymc-cheat.com/assets/posters/venusware.jpg)](https://moggydaymc-cheat.com/client.html?id=venusware)
+
+Фото карточки на сайте: [https://moggydaymc-cheat.com/assets/posters/venusware.jpg](https://moggydaymc-cheat.com/assets/posters/venusware.jpg) · [https://moggydaymc-cheat.com/client.html?id=venusware](https://moggydaymc-cheat.com/client.html?id=venusware)
+
+В репозитории: `assets/poster.jpg` (тот же постер, что на сайте и в лаунchere).
+
 ## Скачать VenusWare — только с официального сайта
 
 **Скачать с сайта MoggyDay** (официально, без зеркал и «левых» crack-файлов):
@@ -16,14 +24,30 @@ VenusWare кряк, VenusWare crack — клиент Minecraft 1.21.11 с виз
 > **SEO:** запросы вроде «VenusWare crack», «VenusWare cheat», «VenusWare кряк», «скачать VenusWare minecraft» — качай **только** с **moggydaymc-cheat.com**, не с Telegram и не с file-hosting.
 
 
-## О клиенте
+## Кратко
 
 VenusWare кряк / VenusWare crack — визуалы и тонкая аура 1.21.11. Лоадер Java 21, 4 ГБ. Функционал: KillAura, Velocity, AutoSwap, AutoTotem, TargetHUD, PvE-утилиты.
 
-- **Версии Minecraft:** 1.21.11 · legacy 1.16.5
-- **Java:** 21
-- **Сервера:** ReallyWorld, HolyWorld
-- **Модули:** killaura velocity autototem esp
+| Параметр | Значение |
+| --- | --- |
+| Клиент | **VenusWare** |
+| Тип | FREE |
+| Направление | Бой · PvE · визуалы |
+| Minecraft | 1.21.11 · legacy 1.16.5 |
+| Java | 21 |
+| RAM | 4 ГБ |
+| Античит | Grim, Matrix |
+| Сервера | ReallyWorld, HolyWorld |
+
+## Подробное описание
+
+VenusWare кряк — RU-клиент на 1.21.11 с упором на визуалы и аккуратную ауру. По описанию автора: KillAura, Velocity, AutoSwap, AutoTotem, TargetHUD, Ambience, HitBubbles, частицы, градиентные темы и PvE-утилиты (автосбор ресурсов, авто-инструменты, метки) для ReallyWorld и выживания. Старая ветка VenusFree на 1.16.5 распространяется отдельно. Конфиг с другого клиента здесь не откроется.
+
+## Функционал и модули
+
+На MoggyDay VenusWare — 1.21.11: KillAura с настройкой ротации, Velocity, AutoSwap, AutoTotem, TargetHUD, Ambience, HitBubbles, ColorCorrection, частицы. PvE-блок: автосбор, авто-инструменты, метки. Темы меняются прямо в игре. Сохраняй venusware.cfg отдельно.
+
+**Модули:** killaura, velocity, autototem, esp
 
 ## Ключевые слова (Google · Yandex · браузер)
 
